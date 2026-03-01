@@ -8,5 +8,12 @@ Current Skills:
 - Dynamics
 - Python (learning)
 
-Goal:
-Land an autonomous robotics internship Summer 2027.
+## Week 1 Progress
+
+- Set up Git + GitHub workflow
+- Implemented vector math in Python
+- Built projectile motion simulation
+- Connected dynamics theory to computation
+
+Reflection:
+Learning how to connect math to code is harder than expected but rewarding.
